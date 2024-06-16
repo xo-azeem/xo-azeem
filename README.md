@@ -18,7 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xo-azeem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+<! -- ![](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
