@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/xo-azeem/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/xo_azeem/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" alt="LeetCode">
 </a>
