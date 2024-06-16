@@ -20,7 +20,7 @@
 ## 🏆 GitHub Trophies
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
