@@ -3,7 +3,6 @@
 # 💫 About Me:
 🔭 I'm currently working on Personal Projects<br>🤝 I'm looking for help with advance concepts of DSA and Database<br>🌱 I'm currently learning advance concepts of Data Structures and Algorithms<br>💭 Ask me about OOP, DSA and Dynamic Programming<br>⚡How to reach me: mailmeatazeem@gmail.com
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xo-azeem/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/xo_azeem/)
@@ -19,7 +18,6 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
@@ -29,7 +27,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=xo-azeem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>[![](https://visitcount.itsvg.in/api?id=xo-azeem&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
