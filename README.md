@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I'm currently working on Personal Projects<br>🤝 I'm looking for help with advance concepts of DSA and Database<br>🌱 I'm currently learning advance concepts of Data Structures and Algorithms<br>💭 Ask me about OOP, DSA and Dynamic Programming<br>⚡How to reach me: mailmeatazeem@gmail.com
+🔭 I'm currently working on personal projects in Web and Mobile App Development.<br>🤝 I'm open to collaboration on React.js, React Native, and Web Development projects.<br>🌱 Currently learning Mobile App Development with React Native and exploring Augmented Reality.<br>💭 Ask me about OOP, DSA, React.js, and Frontend Development.<br>⚡How to reach me: mailmeatazeem@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xo-azeem/) 
