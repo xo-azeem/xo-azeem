@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-<br>Dedicated Computer Science undergraduate seeking an internship to apply my development skills and gain hands-on experience, with a strong interest in Mobile App Development and Augmented Reality (AR).<br>⚡How to reach me: mailmeatazeem@gmail.com
+<br>Dedicated Computer Science undergraduate seeking an internship to apply my development skills and gain hands-on experience, <br> with a strong interest in Mobile App Development and Augmented Reality (AR).<br>⚡How to reach me: mailmeatazeem@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-azeem-nadeem/) 
