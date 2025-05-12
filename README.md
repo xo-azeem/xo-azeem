@@ -1,10 +1,10 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I'm currently working on personal projects in Web and Mobile App Development.<br>🤝 I'm open to collaboration on React.js, React Native, and Web Development projects.<br>🌱 Currently learning Mobile App Development with React Native and exploring Augmented Reality.<br>💭 Ask me about OOP, DSA, React.js, and Frontend Development.<br>⚡How to reach me: mailmeatazeem@gmail.com
+<br>Dedicated Computer Science undergraduate seeking an internship to apply my development skills and gain hands-on experience, with a strong interest in Mobile App Development and Augmented Reality (AR).<br>⚡How to reach me: mailmeatazeem@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xo-azeem/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-azeem-nadeem/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/xo_azeem/)
 
 # 💻 Tech Stack:
