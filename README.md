@@ -113,7 +113,7 @@ Others          47 mins      ░░░░░░░░░░░░░░░░░
 
 ## 💼 Professional Highlights
 
-<div align="center">
+<div align="left">
 
 ```
 const muhammadAzeem = {
