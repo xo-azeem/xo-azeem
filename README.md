@@ -193,7 +193,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
