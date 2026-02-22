@@ -193,7 +193,7 @@
 
 <div align="center">
 
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=xo-azeem)]" />
+<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=chalk" />
 
 </div>
 
@@ -209,7 +209,7 @@
 
 ---
 
-## 🔝 Top Contributed Repositories (Fixed)
+## 🔝 Top Contributed Repositories
 
 <div align="center">
 
