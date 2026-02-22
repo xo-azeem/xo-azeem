@@ -182,24 +182,22 @@
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xo-azeem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xo-azeem&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xo-azeem&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xo-azeem&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies (Fixed)
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=chalk" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 📈 All-Time Contribution Graph (Full History)
+## 📈 All-Time Contribution Graph
 
 <div align="center">
 
