@@ -209,20 +209,6 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=xo-azeem&repo=Shop360&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=xo-azeem&repo=GlampLodges&theme=tokyonight" />
-
-</div>
-
-> Ensure repositories are public and names match exactly.
-
----
-
 ## 💭 Developer Wisdom
 
 <div align="center">
