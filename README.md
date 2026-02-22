@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Muhammad Azeem
 ### Software Engineer | Frontend & Mobile App Developer | AR & ML Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Mobile+App+Development+with+React+Native;Augmented+Reality+%26+ViroReact;Machine+Learning+%26+Deep+Learning;Full-Stack+MERN+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Mobile+App+Development+with+React+Native;Augmented+Reality+%26+ViroReact" alt="Typing SVG" />
 
 </div>
 
