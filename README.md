@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Muhammad Azeem
 ### Software Engineer | Frontend & Mobile App Developer | AR & ML Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Mobile+App+Development+with+React+Native;AR+%26+ViroReact+Expert+in+Progress;Machine+Learning+%26+Deep+Learning;Full-Stack+MERN+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Mobile+App+Development+with+React+Native;Augmented+Reality+%26+ViroReact;Machine+Learning+%26+Deep+Learning;Full-Stack+MERN+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 | 💼 **Role** | 🏆 **Specialization** | 🌟 **Focus** | 📍 **Location** |
 |:-----------:|:---------------------:|:------------:|:---------------:|
-| Software Engineer | React, Mobile & AR | ML & Full-Stack | Lahore, Pakistan |
+| Software Engineer | React, Mobile & AR | AR & Full-Stack | Lahore, Pakistan |
 
 </div>
 
@@ -31,28 +31,27 @@
 **🔭 Currently Working On:**
 - Building responsive web apps for international clients at LA IDEA INC.
 - Developing **GlampLodges** rental platform with scalable frontend architecture
-- Contributing to AI-driven chatbot and smart web integration projects
-- Creating AR experiences with ViroReact for mobile platforms
+- Contributing to AI-driven chatbot and smart web integrations
+- Creating AR experiences with ViroReact
 
 </td>
 <td width="50%">
 
 **🌱 Currently Learning:**
-- MERN Stack for full-stack development
-- Advanced AR with ViroReact & WebXR
-- Deep Learning model deployment with TensorFlow
+- Advanced MERN stack architecture
+- AR with WebXR & ViroReact
 
 **💬 Ask Me About:**
-- React & React Native development
-- Firebase integration & real-time databases
-- AR apps with ViroReact
-- Machine Learning with Python & TensorFlow
+- React & React Native
+- Firebase & scalable backend systems
+- AR app development
+- AI & Machine Learning fundamentals
 
 </td>
 </tr>
 </table>
 
-**⚡ Fun Fact:** I'm passionate about creating immersive digital experiences that bridge the gap between web, mobile, augmented reality, and machine learning!
+**⚡ Fun Fact:** Passionate about building immersive experiences across Web, Mobile, AR, and AI.
 
 </div>
 
@@ -60,73 +59,18 @@
 
 ## 💼 Experience
 
-<div align="left">
-
 ### 🏢 LA IDEA INC. — Software Engineer (Remote, Canada)
 **June 2025 – Present**
 - Develop and maintain responsive web applications for international clients
-- Led UI implementation for **One Medical Centre**, delivering a production-ready website
-- Developing **GlampLodges** rental platform with scalable frontend architecture
-- Contributing to AI-driven chatbot and smart web integration projects
+- Led UI implementation for healthcare platform
+- Building GlampLodges rental platform frontend architecture
+- Contributing to AI-driven integrations
 
 ### 🏛️ Pakistan Customs, FBR — Lahore
 **2021 – Present**
 - Serving at Collectorate of Customs Airports, Lahore
-- Built strong organizational, coordination, and operational management skills in a high-responsibility government environment
-- Actively pursuing full-time transition into a technical role aligned with Computer Science expertise
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-azeem-nadeem/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailmeatazeem@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xo-azeem)
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-```
-TypeScript    42 hrs 38 mins  ██████████████████████░░   85.3%
-Firebase       3 hrs 25 mins  ███░░░░░░░░░░░░░░░░░░░░░    6.8%
-AR Dev         1 hr 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░    3.2%
-Three.js       1 hr 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░    3.2%
-Others           47 mins      ░░░░░░░░░░░░░░░░░░░░░░░░    1.6%
-```
-
-</div>
-
----
-
-## 🎯 2026 Goals & Learning Path
-
-<div align="center">
-
-| Goal | Progress | Target |
-|------|----------|--------|
-| 🟩 Complete MERN Full-Stack Development | ██████░░░░ 60% | H1 2026 |
-| 🥽 Become an AR Expert (ViroReact & WebXR) | █████░░░░░ 50% | End of 2026 |
-| 📱 Master React Native Development | ████████░░ 80% | End of 2026 |
-| 🤖 Machine Learning & Deep Learning | ██████░░░░ 60% | End of 2026 |
-| 🎨 Advanced Three.js & 3D Graphics | ████░░░░░░ 40% | End of 2026 |
-
-### 🌱 Currently Exploring
-![MERN](https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AR](https://img.shields.io/badge/AR_Development-FF6B6B?style=for-the-badge&logo=meta&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-</div>
+- Developed strong coordination and operational management skills
+- Actively transitioning toward full-time technical roles
 
 ---
 
@@ -134,17 +78,36 @@ Others           47 mins      ░░░░░░░░░░░░░░░░�
 
 <div align="left">
 
-```js
-const muhammadAzeem = {
-    role       : "Software Engineer",
-    education  : "BSc Computer Sciences | CGPA 3.71 | University of Lahore (2022–2026)",
-    experience : ["LA IDEA INC. — Remote, Canada", "Pakistan Customs, FBR — Lahore"],
-    specialties: ["React", "React Native", "Firebase", "ViroReact (AR)", "Python", "ML/DL"],
-    currentFocus: "MERN full-stack & becoming an AR expert in 2026",
-    openTo     : "Freelance projects, collaborations & full-time technical roles",
-    location   : "Lahore, Pakistan",
-    leetcode   : "100+ problems solved | Top 1M global ranking",
-};
+```json
+{
+  "name": "Muhammad Azeem",
+  "role": "Software Engineer",
+  "location": "Lahore, Pakistan",
+  "education": {
+    "degree": "BSc Computer Science",
+    "cgpa": "3.71",
+    "graduation": "2026"
+  },
+  "experience": [
+    "Software Engineer — LA IDEA INC. (Remote, Canada)",
+    "Pakistan Customs, FBR — Lahore"
+  ],
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "C++", "SQL"],
+    "frontend": ["React", "Next.js", "Redux", "Framer Motion"],
+    "mobile": ["React Native", "Expo"],
+    "backend": ["Node.js", "Express.js"],
+    "databases": ["MongoDB", "Firebase", "MySQL"],
+    "ar_3d": ["ViroReact", "Three.js", "WebGL"],
+    "ai_ml": ["TensorFlow", "scikit-learn", "Pandas"]
+  },
+  "current_focus": [
+    "MERN production systems",
+    "Augmented Reality engineering",
+    "AI-powered web applications"
+  ],
+  "open_to": ["Full-time roles", "Freelance projects", "Collaborations"]
+}
 ```
 
 </div>
@@ -210,80 +173,53 @@ const muhammadAzeem = {
 
 ---
 
-## 🏅 Certifications & Achievements
-
-<div align="center">
-
-![Meta](https://img.shields.io/badge/Meta-Introduction_to_Mobile_Development-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![LeetCode Rank](https://img.shields.io/badge/LeetCode-Top_1M_Global_Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=xo-azeem&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=xo-azeem&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats-fork-rho.vercel.app/api?username=xo-azeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-fork-rho.vercel.app/api/top-langs/?username=xo-azeem&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xo-azeem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xo-azeem&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🌟 GitHub Metrics
+## 🏆 GitHub Trophies (Fixed)
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge)
-![PRs](https://img.shields.io/badge/Pull_Requests-20+-orange?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues_Solved-15+-red?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Public_Repos-15+-purple?style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=xo-azeem&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/xo-azeem?style=for-the-badge&color=blue)](https://github.com/xo-azeem)
-[![GitHub stars](https://img.shields.io/github/stars/xo-azeem?style=for-the-badge&color=yellow)](https://github.com/xo-azeem)
+<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 All-Time Contribution Graph (Full History)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xo-azeem&theme=tokyo-night&area=true&custom_title=All-Time%20Contribution%20Graph" />
 
 </div>
 
 ---
 
-## 📈 All-Time Contribution Graph
+## 🔝 Top Contributed Repositories (Fixed)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xo-azeem&theme=github-compact&hide_border=true&area=true" alt="Azeem's All-Time GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=xo-azeem&repo=Shop360&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=xo-azeem&repo=GlampLodges&theme=tokyonight" />
 
 </div>
 
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats-fork-rho.vercel.app/api/pin/?username=xo-azeem&repo=Shop360&theme=dark&hide_border=false" alt="Shop360" />
-
-> 💡 For a full list of contributions, visit [github.com/xo-azeem](https://github.com/xo-azeem?tab=repositories)
-
-</div>
+> Ensure repositories are public and names match exactly.
 
 ---
 
@@ -291,7 +227,7 @@ const muhammadAzeem = {
 
 <div align="center">
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -305,8 +241,6 @@ const muhammadAzeem = {
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-azeem-nadeem/)
 
 *"The best way to predict the future is to create it."* – Peter Drucker
-
-[![](https://visitcount.itsvg.in/api?id=xo-azeem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
