@@ -182,8 +182,8 @@
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xo-azeem&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xo-azeem&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://githubreadmestatsfast.vercel.app/api?username=xo-azeem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=xo-azeem&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -192,16 +192,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=onedark&no-frame=true" alt="GitHub Trophies" />
-</div>
 
----
-
-## 📈 All-Time Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xo-azeem&theme=tokyo-night&area=true&custom_title=All-Time%20Contribution%20Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=xo-azeem&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
