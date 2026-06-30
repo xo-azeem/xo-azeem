@@ -60,9 +60,9 @@
 ## 💼 Experience
 
 ### 🏢 LA IDEA INC. — Software Engineer (Remote, Canada)
-**June 2025 – Present**
+**June 2025 – April 2026**
 - Develop and maintain responsive web applications for international clients
-- Led UI implementation for healthcare platform
+- Led UI implementation for One Medical Centre, delivering a production-ready website based on client requirements
 - Building GlampLodges rental platform frontend architecture
 - Contributing to AI-driven integrations
 
@@ -85,7 +85,7 @@
   "location": "Lahore, Pakistan",
   "education": {
     "degree": "BSc Computer Science",
-    "cgpa": "3.71",
+    "cgpa": "3.73",
     "graduation": "2026"
   },
   "experience": [
